@@ -1,15 +1,15 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: "Resource Security of Mobile Games"
+    authors: on NAVER D2 Campus Partner: Security Partner Day, at NAVER D2 Startup Factory, Seoul, Korea
+    conference: 'Presented about the structure of mobile game resources, the method to extract them, and personal experiences of extracting the resources<br>
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/H2qEHdIY1wdFJ6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser2ced101/partner-day-85254729" title="[보안 PARTNER DAY] 모바일게임 리소스 보안" target="_blank">[보안 PARTNER DAY] 모바일게임 리소스 보안</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser2ced101" target="_blank">동민 김</a></strong> </div>'
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: "Return Oriented Programming"
+    authors: on HeXA Private Seminar, at UNIST, Ulsan, Korea
+    conference: "Presented about the basics of stack overflow, stack canary and return oriented programming"
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: "Everything About Game Cheats"
+    authors: on HeXA Public Seminar, at UNIst, Ulsan, Korea
+    conference: "Presented about the history and principles of game cheats, from GBA game enhancer to modern mobile games"

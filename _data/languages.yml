@@ -1,9 +1,24 @@
 - language:
-  idiom: English
+  idiom: Korean
   level: Native
 - language:
-  idiom: French
+  idiom: English
   level: Professional
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: Japanese
+  level: Elementary
+- langauge:
+  idiom: Python
+  level: 
+- langauge:
+  idiom: C/C++
+  level: 
+- langauge:
+  idiom: PHP
+  level: 
+- langauge:
+  idiom: Java
+  level: 
+- langauge:
+  idiom: HTML/CSS/Javascript
+  level: 

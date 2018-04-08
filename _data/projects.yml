@@ -1,23 +1,10 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Projects in HeXA. Unfortunately, projects are not accesible outside UNIST, so I attached images."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: HeXA CTF
+    link: "http://ctf.hexa.pro"
+    tagline: "Organized CTF(Capture The Flag), Constructed CTF servers for managing score and serving problems. Also, set contest problems of Reverse Engineering, Forensics, Web and Pwnable"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-  - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: HeXA Problem Bank
+    link: "http://probbank.hexa.pro"
+    tagline: "Constructed problem servers for managing score and serving problems. Also, modified HeXA CTF platform for the service"
