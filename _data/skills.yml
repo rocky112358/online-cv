@@ -1,18 +1,27 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
+  name: C/C++
   level: 85%
 - skill:
-  name: Sketch & Photoshop
+  name: Python & Django
+  level: 80%
+- skill:
+  name: HTML5 & CSS
+  level: 80%
+- skill:
+  name: Javascript
+  level: 70%
+- skill:
+  name: Arduino
   level: 60%
+- skill:
+  name: Reverse Enginnering
+  level: 80%
+- skill:
+  name: Web Hacking
+  level: 75%
+- skill:
+  name: System Hacking
+  level: 70%
+- skill:
+  name: Digital Forensics
+  level: 65%
