@@ -2,7 +2,7 @@ intro: ""
 publications:
   - paper:
     title: "Resource Security of Mobile Games"
-    authors: on NAVER D2 Campus Partner: Security Partner Day, at NAVER D2 Startup Factory, Seoul, Korea
+    authors: "on NAVER D2 Campus Partner: Security Partner Day, at NAVER D2 Startup Factory, Seoul, Korea"
     conference: 'Presented about the structure of mobile game resources, the method to extract them, and personal experiences of extracting the resources<br>
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/H2qEHdIY1wdFJ6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser2ced101/partner-day-85254729" title="[보안 PARTNER DAY] 모바일게임 리소스 보안" target="_blank">[보안 PARTNER DAY] 모바일게임 리소스 보안</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser2ced101" target="_blank">동민 김</a></strong> </div>'
   - paper:
