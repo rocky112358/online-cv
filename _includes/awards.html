@@ -1,8 +1,8 @@
-{% if site.data.experiences %}
+{% if site.data.awards %}
 <section class="section experiences-section">
-  <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Award</h2>
 
-{% for experience in site.data.experiences %}
+{% for award in site.data.awards %}
   <div class="item">
 
     <div class="meta">
@@ -16,9 +16,9 @@
 
     </div><!--//meta-->
 
-    {% if experience.details %}
+    {% if award.details %}
     <div class="details">
-      <p>{{ experience.details }}</p>
+      <p>{{ award.details }}</p>
     </div><!--//details-->
     {% endif %}
 
