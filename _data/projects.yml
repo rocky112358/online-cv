@@ -4,9 +4,9 @@ projects:
     title: HeXA CTF
     link: "http://ctf.hexa.pro"
     tagline: 'Organized CTF(Capture The Flag), Constructed CTF servers for managing score and serving problems. Also, set contest problems of Reverse Engineering, Forensics, Web and Pwnable<br><br>
-    <img class="profile-img" width=100% src="{{site.baseurl}}/assets/images/{{ site.pic_ctf }}" alt="profile picture" />'
+    <img class="profile-img" width=100% src="{{site.baseurl}}/assets/images/{{ site.pic_ctf }}"/>'
   - project:
     title: HeXA Problem Bank
     link: "http://probbank.hexa.pro"
     tagline: 'Constructed problem servers for managing score and serving problems. Also, modified HeXA CTF platform for the service<br><br>
-    <img class="profile-img" width=100% src="{{site.baseurl}}/assets/images/{{ site.pic_probbank }}" alt="profile picture" />'
+    <img class="profile-img" width=100% src="{{site.baseurl}}/assets/images/{{ site.pic_probbank }}"/>'
