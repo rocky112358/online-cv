@@ -19,6 +19,9 @@ tagline: Undergraduate Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Undergraduate in Computer Science Enginerring and Human Factors Engineering in <a href="http://www.unist.ac.kr">UNIST</a>'
 
+#attached images
+pic_ctf: ctf.png
+pic_probbank: probbank.png
 #sidebar links
 email: rocky112358@gmail.com
 #phone:
